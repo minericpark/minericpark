@@ -1,4 +1,18 @@
-### Hi there 👋
+### Helloo 👋
+
+Eric (Min)seo Park
+
+:heavy_exclamation_mark: Looking for Summer 2021 internships :heavy_exclamation_mark:
+
+:books: Software Engineering Co-op Student at the University of Guelph (:cn:)
+
+:chart_with_upwards_trend: Currently working on:
+ - Personal website redesign
+ - Figuring out my next personal project
+
+:calling: How to reach me:
+- Email: epark03@uoguelph.ca
+- LinkedIn: https://www.linkedin.com/in/eric-p-422190128/
 
 <!--
 **minericpark/minericpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
