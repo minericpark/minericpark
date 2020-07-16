@@ -7,6 +7,7 @@ Eric (Min)seo Park
 :books: Software Engineering Co-op Student at the University of Guelph (:cn:)
 
 :chart_with_upwards_trend: Currently working on:
+ - Personal calendar widget
  - Personal website redesign
  - Figuring out my next personal project
 
