@@ -2,8 +2,6 @@
 
 Eric (Min)seo Park
 
-Currently busy studying for finals of Summer 2020 school term.
-
 :heavy_exclamation_mark: Looking for Summer 2021 internships :heavy_exclamation_mark:
 
 :books: Software Engineering Co-op Student at the University of Guelph (:cn:)
