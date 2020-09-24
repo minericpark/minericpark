@@ -2,12 +2,15 @@
 
 Eric (Min)seo Park
 
-:heavy_exclamation_mark: Looking for Summer 2021 internships :heavy_exclamation_mark:
-
 :books: Software Engineering Co-op Student at the University of Guelph (:cn:)
 
+:briefcase: Currently working as a Software Developer @ NCR for my 1st co-op work term.
+- :heavy_exclamation_mark: Looking for Summer 2021 internships :heavy_exclamation_mark:
+
 :chart_with_upwards_trend: Currently working on:
- - Personal calendar widget
+- Nothing :cold_sweat:
+
+:chart_with_downwards_trend: Currently on pause:
  - Personal website redesign
  - Figuring out my next personal project
 
