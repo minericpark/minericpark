@@ -2,7 +2,7 @@
 
 Eric (Min)seo Park
 
-:books: Software Engineering Co-op Student at the University of Guelph (:cn:)
+:books: Software Engineering Co-op Student at the University of Guelph (:canada:)
 
 :briefcase: Currently working as a Software Developer @ NCR for my 1st co-op work term.
 - :heavy_exclamation_mark: Looking for Summer 2021 internships :heavy_exclamation_mark:
