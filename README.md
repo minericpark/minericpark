@@ -4,15 +4,14 @@ Eric (Min)seo Park
 
 :books: Software Engineering Co-op Student at the University of Guelph (:canada:)
 
-:briefcase: Currently working as a Software Developer @ NCR for my 1st co-op work term.
+:briefcase: Former Software Developer Co-op @ NCR
 - :heavy_exclamation_mark: Looking for Summer 2021 internships :heavy_exclamation_mark:
 
 :chart_with_upwards_trend: Currently working on:
-- Nothing :cold_sweat:
+- Personal website redesign
 
 :chart_with_downwards_trend: Currently on pause:
- - Personal website redesign
- - Figuring out my next personal project
+ - Figuring out my next personal project :cold_sweat:
 
 :calling: How to reach me:
 - Email: epark03@uoguelph.ca
