@@ -5,10 +5,9 @@ Eric (Min)seo Park
 :books: Software Engineering Co-op Student at the University of Guelph (:canada:)
 
 :briefcase: Former Software Developer Co-op @ NCR
-- :heavy_exclamation_mark: Looking for Summer 2021 internships :heavy_exclamation_mark:
 
 :chart_with_upwards_trend: Currently working on:
-- Personal website redesign
+- School, Leetcode, and some team projects 🤔
 
 :chart_with_downwards_trend: Currently on pause:
  - Figuring out my next personal project :cold_sweat:
