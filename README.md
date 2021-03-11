@@ -4,7 +4,7 @@ Eric (Min)seo Park
 
 :books: Software Engineering Co-op Student at the University of Guelph (:canada:)
 
-:briefcase: Former Software Developer Co-op @ NCR
+:briefcase: Software Developer Co-op @ (Incoming) Clear Software, (Former) NCR
 
 :chart_with_upwards_trend: Currently working on:
 - School, Leetcode, and some team projects 🤔
