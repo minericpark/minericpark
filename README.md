@@ -1,8 +1,13 @@
 ## Helloo 👋
-My name is Eric Min Seo Park! I am a software developer studying :books: software engineering at the University of Guelph (:canada:). Nice to meet you! Hope to get to know you well and get better at programming with you 😄
+
 <p align=center>
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=minericpark&show_icons=true&count_private=true&theme=vue">
 </p>
+
+My name is Eric Min Seo Park! I am a software developer studying :books: software engineering at the University of Guelph (:canada:). Nice to meet you! Hope to get to know you well and get better at programming with you 😄
+
+### :chart_with_upwards_trend: Currently working on
+- School finals 🤔
 
 ### :wrench: Technologies & Tools
 #### Languages
@@ -30,13 +35,6 @@ My name is Eric Min Seo Park! I am a software developer studying :books: softwar
 <img src="https://img.shields.io/badge/-Docker-2393eb?style=flat&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/-Kubernetes-346be3?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"> 
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify">
 </p>
-
-### :chart_with_upwards_trend: Currently working on
-- School finals 🤔
-
-### :briefcase: Co-op Placements
-- Software Developer @ Clear Software (Incoming) (S21)
-- Software Developer @ NCR (F20)
 
 ### :calling: Want to contact me?
 <a href="https://www.linkedin.com/in/ericminseopark/">
