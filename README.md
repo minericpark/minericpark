@@ -7,10 +7,10 @@ Eric (Min)seo Park
 :briefcase: Software Developer Co-op @ (Incoming) Clear Software, (Former) NCR
 
 :chart_with_upwards_trend: Currently working on:
-- School, Leetcode, and some team projects 🤔
+- School finals 🤔
 
 :chart_with_downwards_trend: Currently on pause:
- - Figuring out my next personal project :cold_sweat:
+ - Figuring out my next massive personal project :cold_sweat:
 
 :calling: How to reach me:
 - Email: epark03@uoguelph.ca
