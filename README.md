@@ -37,7 +37,9 @@ My name is Eric Min Seo Park! I am a software developer studying :books: softwar
 </p>
 
 ### :calling: Want to contact me?
+<p align=center>
 <a href="https://www.linkedin.com/in/ericminseopark/">
 <img src="https://img.shields.io/badge/LinkedIn Profile-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    </p>
 
 
