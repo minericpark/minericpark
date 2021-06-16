@@ -7,7 +7,7 @@
 My name is Eric Min Seo Park! I am a software developer studying :books: software engineering at the University of Guelph (:canada:). Nice to meet you! Hope to get to know you well and get better at programming with you 😄
 
 ### :chart_with_upwards_trend: Currently working on
-- Projects at my current internship 🤔
+- Client projects at my current internship 🤔
 
 ### :wrench: Technologies & Tools
 #### Languages
