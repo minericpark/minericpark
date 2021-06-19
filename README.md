@@ -8,6 +8,8 @@ My name is Eric Min Seo Park! I am a software developer studying :books: softwar
 
 ### :chart_with_upwards_trend: Currently working on
 - Client projects at my current internship 🤔
+- Project with a team and a professor at the University of Guelph
+- UI for the University of Guelph's robotics team
 
 ### :wrench: Technologies & Tools
 #### Languages
