@@ -4,7 +4,7 @@
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=minericpark&show_icons=true&count_private=true&theme=vue">
 </p>
 
-My name is Eric Min Seo Park! I am a software developer studying :books: software engineering at the University of Guelph (:canada:). Nice to meet you! Hope to get to know you well and get better at programming with you 😄
+My name is Min Seo (Eric) Park! I am a software developer studying :books: software engineering at the University of Guelph (:canada:). Nice to meet you! Hope to get to know you well and get better at programming with you 😄
 
 ### :chart_with_upwards_trend: Currently working on
 - Client projects at my current internship 🤔
