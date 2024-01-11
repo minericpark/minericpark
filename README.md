@@ -7,9 +7,8 @@
 What's up? Just a wanderer that's exploring this field.
 
 ### :chart_with_upwards_trend: Currently working on
-- Graduated with distinction at UofG pog
-- Working with a team on a fun project in AW based on syncing services
-- Contemplating creating some games in Unity for mobile or PC
+- Preparing for AWS Solutions Architect Associate cert
+- Creating smaller API projects
 
 ### :wrench: Technologies & Tools
 #### Languages
